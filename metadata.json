@@ -1,0 +1,6 @@
+{
+  "name": "Icon Code Y — AI Content Factory",
+  "description": "Next-Gen AI-Driven Content Factory & Multi-Channel Social Media Automation Ecosystem. Generate viral videos and images with 10+ AI models and auto-publish to TikTok, Instagram, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
